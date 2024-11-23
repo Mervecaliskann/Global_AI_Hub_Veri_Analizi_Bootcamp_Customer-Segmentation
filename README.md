@@ -47,3 +47,6 @@ En çok satan ürünler,
 Günlük ve saatlik satış trendleri,
 Müşteri bazında toplam harcama analizi.
 Sonuç olarak, bu çalışma veri setinin temizlenip analiz edilmesiyle elde edilen temel bulguları ve görselleştirmeleri sunarak, e-ticaret platformlarındaki satış dinamikleri hakkında değerli içgörüler sağlamaktadır.
+
+## Kaggle Linki
+https://www.kaggle.com/code/mervcaliskaan/globalaihubveri-analizi-bootcamp-customeranalysis
