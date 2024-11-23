@@ -4,9 +4,9 @@ Bu proje, bir e-ticaret platformuna ait satış verilerinin analiz edilmesi ve g
 ## Projenin Amacı ve Yöntemi
 Bu proje, bir e-ticaret platformunda gerçekleştirilen satış işlemlerine ait verileri analiz ederek, veri setindeki temel satış metriklerini ve müşteri davranışlarını incelemeyi amaçlar. Hedefler arasında aşağıdaki konular yer alır:
 
-Eksik değerlerin tespiti ve giderilmesi,
-Veri mühendisliği adımları ile anlamlı değişkenler oluşturulması,
-Satış, müşteri ve ürün bazında görselleştirmeler yoluyla öne çıkan eğilimlerin belirlenmesi.
+* Eksik değerlerin tespiti ve giderilmesi,
+* Veri mühendisliği adımları ile anlamlı değişkenler oluşturulması,
+* Satış, müşteri ve ürün bazında görselleştirmeler yoluyla öne çıkan eğilimlerin belirlenmesi.
 
 Yöntem olarak:
 
