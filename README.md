@@ -7,19 +7,20 @@ Bu proje, bir e-ticaret platformunda gerçekleştirilen satış işlemlerine ait
 Eksik değerlerin tespiti ve giderilmesi,
 Veri mühendisliği adımları ile anlamlı değişkenler oluşturulması,
 Satış, müşteri ve ürün bazında görselleştirmeler yoluyla öne çıkan eğilimlerin belirlenmesi.
+
 Yöntem olarak:
 
-Veri Keşfi: Veriye ilk bakış ve eksik veri analizi,
-Eksik Veri İşleme: Eksik değerlerin uygun yöntemlerle doldurulması veya çıkarılması,
-Feature Engineering: Kıta bilgisi ekleme gibi yeni değişkenlerin oluşturulması,
-Veri Görselleştirme: Satış trendleri, müşteri harcamaları ve ürün popülerliği gibi metriklerin görselleştirilmesi kullanılmıştır.
+* Veri Keşfi: Veriye ilk bakış ve eksik veri analizi,
+* Eksik Veri İşleme: Eksik değerlerin uygun yöntemlerle doldurulması veya çıkarılması,
+* Feature Engineering: Kıta bilgisi ekleme gibi yeni değişkenlerin oluşturulması,
+* Veri Görselleştirme: Satış trendleri, müşteri harcamaları ve ürün popülerliği gibi metriklerin görselleştirilmesi kullanılmıştır.
 
 ## Öne Çıkan Bulgular
-Veri setinde 541.909 işlem kaydı ve 8 sütun bulunmaktadır. Ancak birçok sütunda eksik veri tespit edilmiştir.
-Müşteri ID'si (CustomerID) sütununda eksik veri oranı oldukça yüksektir (%27,2).
-Günlük satış trendi incelendiğinde, bazı günlerde satış miktarında ciddi artışlar gözlemlenmiştir.
-En çok satılan ürünler genellikle düşük fiyatlı ve küçük boyutlu ürünlerdir.
-Ülke bazında satışlar incelendiğinde, Birleşik Krallık (United Kingdom) toplam satışlarda lider konumdadır.
+* Veri setinde 541.909 işlem kaydı ve 8 sütun bulunmaktadır. Ancak birçok sütunda eksik veri tespit edilmiştir.
+* Müşteri ID'si (CustomerID) sütununda eksik veri oranı oldukça yüksektir (%27,2).
+* Günlük satış trendi incelendiğinde, bazı günlerde satış miktarında ciddi artışlar gözlemlenmiştir.
+* En çok satılan ürünler genellikle düşük fiyatlı ve küçük boyutlu ürünlerdir.
+* Ülke bazında satışlar incelendiğinde, Birleşik Krallık (United Kingdom) toplam satışlarda lider konumdadır.
 
 ## Verinin Genel Yapısı
 Veri seti 8 sütun içermektedir ve aşağıdaki bilgiler sunulmuştur:
@@ -31,14 +32,14 @@ Eksik veri oranı yüksek olan sütunlar, analiz sürecinde dikkatle ele alınm�
 ## Proje Özeti
 Bu proje, aşağıdaki adımları içerir:
 
-Veri Yükleme ve İlk İnceleme: Veri setinin boyutları, sütunların açıklamaları ve eksik veri analizi.
-Eksik Veri İşleme: Eksik değerlerin çıkarılması veya doldurulması.
-Feature Engineering: Kıta bilgisi gibi yeni sütunların eklenmesi.
-Veri Görselleştirme:
-Ülkelere göre satış dağılımı,
-En çok satan ürünler,
-Günlük ve saatlik satış trendleri,
-Müşteri bazında toplam harcama analizi.
+* Veri Yükleme ve İlk İnceleme: Veri setinin boyutları, sütunların açıklamaları ve eksik veri analizi.
+* Eksik Veri İşleme: Eksik değerlerin çıkarılması veya doldurulması.
+* Feature Engineering: Kıta bilgisi gibi yeni sütunların eklenmesi.
+* Veri Görselleştirme:
+* Ülkelere göre satış dağılımı,
+* En çok satan ürünler,
+* Günlük ve saatlik satış trendleri,
+* Müşteri bazında toplam harcama analizi.
 Sonuç olarak, bu çalışma veri setinin temizlenip analiz edilmesiyle elde edilen temel bulguları ve görselleştirmeleri sunarak, e-ticaret platformlarındaki satış dinamikleri hakkında değerli içgörüler sağlamaktadır.
 
 ## Kaggle Linki
