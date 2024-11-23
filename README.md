@@ -24,15 +24,8 @@ En çok satılan ürünler genellikle düşük fiyatlı ve küçük boyutlu ür�
 ## Verinin Genel Yapısı
 Veri seti 8 sütun içermektedir ve aşağıdaki bilgiler sunulmuştur:
 
-Sütun Adı	Veri Tipi	Açıklama	Eksik Veri Oranı (%)
-InvoiceNo	object	Satış işlemleri için benzersiz fatura numaraları	2,93
-StockCode	object	Satılan ürünlerin stok kodları	2,95
-Description	object	Ürünlerin açıklamaları	3,25
-Quantity	float64	Satılan ürün miktarı	2,91
-InvoiceDate	datetime64[ns]	Satış işleminin gerçekleştirildiği tarih ve saat	2,97
-UnitPrice	float64	Ürünlerin birim fiyatları	2,93
-CustomerID	float64	Satışı gerçekleştiren müşterilerin kimlik numaraları	27,2
-Country	object	Müşterilerin bulundukları veya satışın yapıldığı ülkeler	2,97
+![image](https://github.com/user-attachments/assets/e7a337ce-8b59-44f5-90d0-520fdff695dd)
+
 Eksik veri oranı yüksek olan sütunlar, analiz sürecinde dikkatle ele alınmıştır. Eksik değerler silinmiş veya uygun yöntemlerle doldurulmuştur.
 
 ## Proje Özeti
